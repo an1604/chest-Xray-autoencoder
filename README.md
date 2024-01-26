@@ -19,7 +19,7 @@ You can install them using pip:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Project Structure
 - train_chestXRAY.csv: CSV file containing training data information.
 - validation_chestXRAY.csv: CSV file containing validation data information.
